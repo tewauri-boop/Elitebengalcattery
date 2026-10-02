@@ -1,0 +1,50 @@
+{
+  "$schema": "https://agentskills.io/schema/v0.2.0/index.json",
+  "name": "Elite Bengal Cattery",
+  "url": "https://DOMAIN.com",
+  "description": "Ethically Bred Purebred Bengal Kittens with Exceptional Rosettes and Wild Elegance",
+  "skills": [
+    {
+      "name": "search-products",
+      "type": "commerce",
+      "description": "Search available Bengal kittens by keyword, category, or price",
+      "url": "https://DOMAIN.com/api/mcp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "browse-catalog",
+      "type": "navigation",
+      "description": "Browse the full kitten catalog by category",
+      "url": "https://DOMAIN.com/shop/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "order-draft",
+      "type": "commerce",
+      "description": "Create a prefilled kitten reservation draft. Human completes the reservation.",
+      "url": "https://DOMAIN.com/api/mcp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "wholesale-inquiry",
+      "type": "commerce",
+      "description": "Breeding rights tiers and pedigree inquiries",
+      "url": "https://DOMAIN.com/wholesale/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "product-education",
+      "type": "content",
+      "description": "Educational Bengal cat blog and care guides",
+      "url": "https://DOMAIN.com/blog/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "contact",
+      "type": "support",
+      "description": "Contact for kitten adoption questions or support",
+      "url": "https://DOMAIN.com/contact/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

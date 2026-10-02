@@ -1,0 +1,27 @@
+# Elite Bengal Cattery
+
+> Ethically Bred Purebred Bengal Kittens with Exceptional Rosettes and Wild Elegance
+
+Elite Bengal Cattery is an elite, TICA-registered hobby cattery in North Carolina specializing in championship bloodline Bengal kittens with wild rosettes, sweet temperament, and certified genetic health.
+
+Located in Raleigh & Charlotte Metro Area, North Carolina, USA. Contact via WhatsApp at +1 720 310 0222 or email at elitebengalcattery28@gmail.com.
+Free white-glove pet courier delivery across the United States. 10% instant discount when reserving via cryptocurrency.
+
+## Available Bengal Kittens
+- [Brown Rosetted Bengals](https://DOMAIN.com/shop/brown-rosetted/): Warm golden undercoats with striking two-tone jaguar-like doughnut rosettes.
+- [Snow Bengal Kittens](https://DOMAIN.com/shop/snow-bengals/): Breathtaking ivory coats, glacier-blue eyes, and delicate cocoa leopard rosettes.
+- [Silver & Charcoal Bengals](https://DOMAIN.com/shop/silver-charcoal/): Gleaming pewter coats with pitch-black markings and exotic midnight masks.
+- [Breeding & Show Rights](https://DOMAIN.com/shop/breeding-rights/): Exceptional structural conformation, strong chin, wild profile, and fertile champion pedigrees.
+
+## Guidance & Information
+- [About Our Cattery](https://DOMAIN.com/about/): Ethical breeding standards, genetic screening, and family nursery upbringing.
+- [Adoption FAQ](https://DOMAIN.com/faq/): Reservation steps, health warranties, air courier delivery, and care guidelines.
+- [Bengal Education Blog](https://DOMAIN.com/blog/): Comprehensive guides to Bengal nutrition, genetics, and home enrichment.
+- [Wholesale & Breeding Rights](https://DOMAIN.com/wholesale/): Program details and pedigree requirements for ethical catteries.
+- [Contact & Live Concierge](https://DOMAIN.com/contact/): Reach our adoption team via WhatsApp or reservation inquiries.
+
+## Optional
+- [API Catalog](https://DOMAIN.com/.well-known/api-catalog): RFC 9727 linkset catalog of available endpoints.
+- [Agent Skills](https://DOMAIN.com/.well-known/agent-skills/index.json): Machine-readable skill descriptors for AI agents.
+- [MCP Server Card](https://DOMAIN.com/.well-known/mcp/server-card.json): Model Context Protocol streamable HTTP server specification.
+- [Authentication & Agent Access](https://DOMAIN.com/auth.md): Open public catalog access documentation.

@@ -1,0 +1,69 @@
+{
+  "ucp": "1.0",
+  "protocol_version": "1.0",
+  "spec": "https://ucp.dev/specification/overview/",
+  "schema": "https://ucp.dev/schema/v1.json",
+  "site": "https://DOMAIN.com",
+  "name": "Elite Bengal Cattery",
+  "description": "Ethically Bred Purebred Bengal Kittens with Exceptional Rosettes and Wild Elegance",
+  "services": [
+    {
+      "id": "product-catalog",
+      "type": "catalog",
+      "url": "https://DOMAIN.com/shop/",
+      "description": "Full kitten catalog"
+    },
+    {
+      "id": "mcp-server",
+      "type": "mcp",
+      "url": "https://DOMAIN.com/api/mcp",
+      "description": "MCP Streamable HTTP server"
+    },
+    {
+      "id": "order",
+      "type": "commerce",
+      "url": "https://wa.me/17203100222",
+      "description": "Place orders via WhatsApp"
+    },
+    {
+      "id": "wholesale",
+      "type": "b2b",
+      "url": "https://DOMAIN.com/wholesale/",
+      "description": "Breeding rights inquiries and pedigree information"
+    }
+  ],
+  "capabilities": [
+    "browse",
+    "search",
+    "inquiry",
+    "wholesale",
+    "content",
+    "mcp"
+  ],
+  "endpoints": {
+    "mcp": "https://DOMAIN.com/api/mcp",
+    "catalog": "https://DOMAIN.com/shop/",
+    "contact": "https://DOMAIN.com/contact/",
+    "agent_skills": "https://DOMAIN.com/.well-known/agent-skills/index.json",
+    "mcp_server_card": "https://DOMAIN.com/.well-known/mcp/server-card.json",
+    "api_catalog": "https://DOMAIN.com/.well-known/api-catalog",
+    "llms_txt": "https://DOMAIN.com/llms.txt"
+  },
+  "currency": "USD",
+  "minimum_order_usd": "0",
+  "payment_methods": [
+    "Zelle",
+    "Cash App",
+    "PayPal",
+    "Chime",
+    "crypto-BTC",
+    "crypto-USDT",
+    "Bank Wire Transfer",
+    "Certified Gift Cards"
+  ],
+  "legal": {
+    "age_restriction": "none",
+    "product_type": "Purebred Bengal Kittens",
+    "compliance": "TICA Registered Ethical Cattery"
+  }
+}

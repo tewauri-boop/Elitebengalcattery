@@ -1,0 +1,6 @@
+{
+  "name": "Elite Bengal Cattery",
+  "description": "Ethically bred purebred Bengal kittens with magnificent rosettes, wild elegance, and guaranteed genetic health. Based in North Carolina, USA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

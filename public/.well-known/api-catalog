@@ -1,0 +1,48 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://DOMAIN.com/",
+      "https://www.iana.org/assignments/link-relations/service-doc": [
+        {
+          "href": "https://DOMAIN.com/faq/"
+        }
+      ],
+      "title": "Elite Bengal Cattery — Ethically Bred Purebred Bengal Kittens with Exceptional Rosettes and Wild Elegance"
+    },
+    {
+      "anchor": "https://DOMAIN.com/shop/",
+      "type": "text/html",
+      "title": "Elite Bengal Cattery Kitten Catalog"
+    },
+    {
+      "anchor": "https://DOMAIN.com/wholesale/",
+      "type": "text/html",
+      "title": "Elite Bengal Cattery Breeding Rights"
+    },
+    {
+      "anchor": "https://DOMAIN.com/api/products",
+      "type": "application/json",
+      "title": "Elite Bengal Cattery Products API"
+    },
+    {
+      "anchor": "https://DOMAIN.com/api/categories",
+      "type": "application/json",
+      "title": "Elite Bengal Cattery Categories API"
+    },
+    {
+      "anchor": "https://DOMAIN.com/api/search",
+      "type": "application/json",
+      "title": "Elite Bengal Cattery Search API"
+    },
+    {
+      "anchor": "https://DOMAIN.com/api/mcp",
+      "type": "application/json",
+      "https://www.iana.org/assignments/link-relations/service-desc": [
+        {
+          "href": "https://DOMAIN.com/.well-known/mcp/server-card.json"
+        }
+      ],
+      "title": "Elite Bengal Cattery MCP Server"
+    }
+  ]
+}

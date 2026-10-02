@@ -1,0 +1,47 @@
+{
+  "protocol": {
+    "name": "acp",
+    "version": "0.1.0"
+  },
+  "name": "Elite Bengal Cattery",
+  "description": "Ethically Bred Purebred Bengal Kittens with Exceptional Rosettes and Wild Elegance",
+  "api_base_url": "https://DOMAIN.com",
+  "homepage": "https://DOMAIN.com",
+  "transports": [
+    "https"
+  ],
+  "capabilities": {
+    "services": [
+      "product-catalog",
+      "wholesale",
+      "blog",
+      "faq",
+      "mcp-server"
+    ],
+    "ordering": "human-assisted",
+    "payment_methods": [
+      "Zelle",
+      "Cash App",
+      "PayPal",
+      "Chime",
+      "crypto-BTC",
+      "crypto-USDT",
+      "Bank Wire Transfer",
+      "Certified Gift Cards"
+    ],
+    "currency": "USD",
+    "minimum_order_usd": "0",
+    "free_shipping_threshold_usd": "0"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/17203100222",
+    "email": "elitebengalcattery28@gmail.com"
+  },
+  "legal": {
+    "age_restriction": "none",
+    "region": "United States",
+    "ships_to": "United States (Nationwide Courier)",
+    "product_type": "Purebred Bengal Kittens",
+    "compliance": "TICA Registered Ethical Cattery"
+  }
+}
